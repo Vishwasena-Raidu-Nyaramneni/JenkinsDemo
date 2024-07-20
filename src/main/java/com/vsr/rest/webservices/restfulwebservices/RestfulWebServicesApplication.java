@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class RestfulWebServicesApplication {
 
 	public static void main(String[] args) {
+		System.out.print("Hello Vishwa. This is Initial commit");
 		SpringApplication.run(RestfulWebServicesApplication.class, args);
 	}
 
